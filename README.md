@@ -204,4 +204,4 @@ This repository serves as the official landing page for NBA 2K13. The software i
 **Get the most recent version of NBA 2K13 today!**
 
 ---
-**Last updated:** 2026-11-13 05:45:51 UTC
+**Last updated:** 2026-11-13 14:13:55 UTC
